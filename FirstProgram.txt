@@ -1,1 +1,1 @@
-"#FirstProgram" 
+Print ("Hello World")
